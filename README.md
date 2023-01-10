@@ -1,2 +1,4 @@
-# First-folder
-First folder GitHub
+<html>
+<h1> This is my first page with GitHub Pages </h1>
+<p>Thanks GitHub!</p>
+</html>
